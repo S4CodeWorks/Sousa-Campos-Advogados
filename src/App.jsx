@@ -14,7 +14,7 @@ import {
 } from 'lucide-react'
 
 const WHATSAPP_URL =
-  'https://wa.me/5500000000000?text=Ol%C3%A1%2C+tive+o+celular+bloqueado+por+parcela+atrasada+e+quero+saber+meus+direitos.'
+  'https://wa.me/556481226160?text=Ol%C3%A1%2C+tive+o+celular+bloqueado+por+parcela+atrasada+e+quero+saber+meus+direitos.'
 
 function useInView(threshold = 0.15) {
   const ref = useRef(null)
